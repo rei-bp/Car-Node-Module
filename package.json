@@ -11,5 +11,17 @@
   "dependencies": {
     "chai": "^4.1.2",
     "mocha": "^5.2.0"
-  }
+  },
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rei-bp/Car-Node-Module.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rei-bp/Car-Node-Module/issues"
+  },
+  "homepage": "https://github.com/rei-bp/Car-Node-Module#readme"
 }
